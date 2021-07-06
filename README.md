@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with data Science stuff.
 - 💬 Ask me about WebD and ML.
 - 📫 How to reach me: tanmayranjan.1.a@gmail.com
+- 😄 Website: https://tanmayr27.github.io/
 <!--
 **tanmayr27/tanmayr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
