@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Machine Learning and Web development
 - 🌱 I’m currently learning Object Detection.
-- 👯 I’m looking to collaborate on ML & AL.
+- 👯 I’m looking to collaborate on ML & AI.
 - 🤔 I’m looking for help with data Science stuff.
 - 💬 Ask me about software development.
 - 📫 How to reach me: tanmayranjan.1.a@gmail.com
