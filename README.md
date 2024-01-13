@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning and Web development
-- 🌱 I’m currently learning Object Detection.
-- 👯 I’m looking to collaborate on ML & AI.
-- 🤔 I’m looking for help with data Science stuff.
+- 🔭 I’m currently working on Java Backend.
+- 🌱 I’m currently learning Full Stack Web development.
+- 👯 I’m looking to collaborate on software development.
+- 🤔 I’m looking for help with Web development & data Science stuff.
 - 💬 Ask me about software development.
 - 📫 How to reach me: tanmayranjan.1.a@gmail.com
 - 😄 Website: https://tanmayr27.github.io/
